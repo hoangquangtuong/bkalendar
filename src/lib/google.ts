@@ -2,9 +2,9 @@
 
 export default { auth, createCalendar, addEventsToCalendar };
 
-const API_KEY: string = 'AIzaSyBB2fk24uJrAXx_Q7DVPD0XdzUZ6xaFbRI';
+const API_KEY: string = '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';
 const CLIENT_ID: string =
-	'1003739652458-kgklao4co5lrtffceqeq8ng2m7m1pde6.apps.googleusercontent.com';
+	'1013091734964-u5f44f5p2ojn1rmfc9m90rt215uphogo.apps.googleusercontent.com';
 
 await initGapi();
 
